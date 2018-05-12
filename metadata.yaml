@@ -1,0 +1,41 @@
+_repo: History-of-New-Brunswick_27111
+_version: 0.1.0
+alternative_title: First history of New Brunswick
+contributor:
+  contributors:
+  - agent_name: Fisher, William Shives
+    gutenberg_agent_id: '32466'
+    url: http://www.gutenberg.org/2009/agents/32466
+  - agent_name: Raymond, W. O. (William Odber)
+    alias: Raymond, William Odber
+    birthdate: 1853
+    deathdate: 1923
+    gutenberg_agent_id: '32467'
+    url: http://www.gutenberg.org/2009/agents/32467
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, Peter
+    birthdate: 1782
+    deathdate: 1848
+    gutenberg_agent_id: '32465'
+    url: http://www.gutenberg.org/2009/agents/32465
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Fisher_(Canadian_historian)
+description: 'Some notes regarding Peter Fisher : the first historian of New Brunswick
+  / W.O. Raymond'
+gutenberg_issued: '2008-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Brunswick -- Description and travel'
+- !lcsh 'New Brunswick -- History'
+- !lcc 'F1001'
+title: History of New Brunswick
+url: http://www.gutenberg.org/ebooks/27111
