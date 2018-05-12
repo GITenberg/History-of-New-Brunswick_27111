@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Peter_Fisher_(Canadian_historian)
 description: 'Some notes regarding Peter Fisher : the first historian of New Brunswick
   / W.O. Raymond'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27111#History-of-New-Brunswick
 gutenberg_issued: '2008-10-31'
 gutenberg_type: Text
 identifiers:
